@@ -1,3 +1,5 @@
 {
-  "projects": {}
+  "projects": {
+    "userservice": "https://github.com/WestCoastRomS/android_device_google_bonito.git"
+  }
 }
